@@ -1,10 +1,10 @@
 {
-  "name": "gatsby-starter-directive",
+  "name": "gatsby-html5up-directive",
   "version": "0.0.1",
   "description": "Gatsby.js V2 starter template based on Directive by HTML5 UP",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-directive.git"
+    "url": "git+https://github.com/app-generator/gatsby-html5up-directive.git"
   },
   "author": {
     "name": "Anubhav Srivastava",
@@ -48,7 +48,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-directive/issues"
+    "url": "https://github.com/app-generator/gatsby-html5up-directive/issues"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-directive#readme"
+  "homepage": "https://gatsby-html5up-directive.appseed.us"
 }
