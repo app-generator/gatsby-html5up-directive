@@ -1,7 +1,18 @@
-# [GatsbyJS Directive](https://gatsby-html5up-directive.appseed.us)
+# [GatsbyJS Directive](https://appseed.us/apps/gatsbyjs/gatsby-html5up-directive)
 
 Open-source app built with GatsbyJS on top of HTML5Up Directive design. 
 **Forked from [this](https://github.com/anubhavsrivastava/gatsby-starter-directive) project.**
+
+<br />
+
+![GatsbyJS Directive - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-directive-intro.gif?raw=true)
+
+<br />
+
+## App Links
+
+- [GatsbyJS Directive](https://gatsby-html5up-directive.appseed.us) - live demo
+- [Directive](https://html5up.net/directive) - the design provided by Html5UP 
 
 <br />
 
@@ -16,7 +27,7 @@ Open-source app built with GatsbyJS on top of HTML5Up Directive design.
 
 ## Support
 
-For Support please access the [Support](https://appseed.us/support) provided by **AppSeed** 
+Please access the official [Support](https://appseed.us/support) page provided by **AppSeed** 
 
 <br />
 
@@ -28,4 +39,4 @@ For Support please access the [Support](https://appseed.us/support) provided by 
 <br />
 
 ---
-[GatsbyJS Directive](https://gatsby-html5up-directive.appseed.us) provided by **AppSeed**
+[GatsbyJS Directive](https://appseed.us/apps/gatsbyjs/gatsby-html5up-directive) provided by **AppSeed**
